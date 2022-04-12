@@ -1,4 +1,4 @@
-# ESTUDANDO SOBRE O GIT HUB
+# ESTUDANDO SOBRE O GIT / GITHUB
 
 O principal intuito desse projeto é aprender a usar o git
 
