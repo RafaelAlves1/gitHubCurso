@@ -1,4 +1,4 @@
-# aqui estou desenvolvendo uma nova branch
+# AQUI ESTOU CRIANDO UMA NOVA BRANCH E DANDI UM MERGE COM A BRANCH PRINCIPAL
 
 [x] git checkout -b "Nome" - criando e entrando na nova branch
 

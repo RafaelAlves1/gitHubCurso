@@ -2,7 +2,7 @@
 
 O principal intuito desse projeto é aprender a usar o git
 
-[x] git init - Iniciar repositorio
+[x] git init - Iniciar repositorio local (no proprio computador)
 
 [x] git status - verificar alterações
 
